@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VeriSight AI: Deepfake & Provenance Lab",
+  "description": "A cutting-edge digital forensics tool that uses advanced AI to detect deepfakes and trace the digital provenance chain of media.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
